@@ -1,6 +1,8 @@
 """
 Implements user recommendation system using user and item based filtering. Use item based filtering if working with large dataset due to excess computational costs associated with user based recommendation systems. 
-	User based recommendation filtering searches through each users and compares each items. Item based recommendation filtering builds a item similiarty dictionary and returns the top recommendations for each item without having to do excess calculations.
+	User based recommendation filtering searches through each users and compares each items. 
+	Item based recommendation filtering builds a item similiarty dictionary and returns the top recommendations for each item
+	without having to do excess calculations.
 """
 from math import sqrt
 
