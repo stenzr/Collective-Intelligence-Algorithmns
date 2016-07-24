@@ -1,2 +1,3 @@
-# Simple-ML-Lib
-Simple implementations of machine learning algorithms. 
+# Collective Intelligence Algorithms
+Re-implments machine learning algorithms in Python 3 from Programming Collective Intelligence - O'Reilly Media.
+
